@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 90vh;
+  min-height: 80vh;
   flex-direction: column;
   background-color: #FFCD00;
   perspective: 2500px;
